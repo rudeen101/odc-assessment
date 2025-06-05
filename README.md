@@ -1,5 +1,5 @@
 # odc-assessment
-API allows our App to communicate with other web services.
+API allows our App to communicate with other apps or web applications.
 
 Front is the user inteerface  of the app while backend has to be with the database api and security of the app.
 
